@@ -1,7 +1,7 @@
 # Hi, I'm Subhasis 👋
-**Aspiring Full-Stack Developer | Microservices & DevOps Enthusiast | Problem Solver**  
+**Aspiring Full-Stack Developer | DSA Enthusiast | Problem Solver**
 
-I'm a B.Tech CSE student passionate about building scalable and efficient applications using Full-Stack development, Microservices, and modern DevOps practices.  
+I'm a B.Tech CSE student passionate about building impactful projects and solving challenging problems with code. Currently honing my skills in Full-Stack Development, Data Structures & Algorithms, and modern web technologies.
 
 ---
 
@@ -19,21 +19,13 @@ I'm a B.Tech CSE student passionate about building scalable and efficient applic
 ![React](https://img.shields.io/badge/React-80%-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-75%-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Backend & Microservices**
+### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-85%-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-80%-black?style=for-the-badge&logo=express&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-70%-blue?style=for-the-badge&logo=network&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-80%-blue?style=for-the-badge)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-80%-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-75%-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-85%-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-80%-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-75%-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-80%-green?style=for-the-badge)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-85%-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,17 +35,35 @@ I'm a B.Tech CSE student passionate about building scalable and efficient applic
 
 ---
 
+## 💻 Projects
+- **[Smart Placement Tracker](https://github.com/Subhasis-775/Smart-Placement-Tracker)** – Full-stack job application tracker with analytics.
+- **[Todo App](https://github.com/Subhasis-775/Todo-App)** – React + Context API Todo application with localStorage.
+- **[GitHub User Finder](https://github.com/Subhasis-775/GitHub-User-Finder)** – React app to search GitHub users using API.
+
+---
+
+## 📈 GitHub Stats
+![Subhasis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhasis-775&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhasis-775&layout=compact&theme=radical)
+
+---
+
+## 🖥️ DSA Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/Subhasis-775?theme=dark)
+![GFG Stats](https://img.shields.io/badge/GFG-DSA_Solved-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
+---
+
 ## 🏆 Achievements
-- Hands-on experience with **Microservices, WebSockets, and DevOps pipelines**  
-- Solved **400+ problems** on LeetCode & GFG  
-- Completed **PW Java DSA series**  
-- Hackathon Participant  
-- Actively contributing to open-source projects  
+- Solved **400+ DSA problems** on LeetCode & GFG
+- Completed **PW Java DSA series**
+- Hackathon Participant
+- Actively contributing to open-source projects
 
 ---
 
 ## 📫 Contact
-- Email: `subhasisrout00.com`
+- Email: `subhasisrout00@gmail.com`
 - LinkedIn: [Subhasis Rout](https://www.linkedin.com/in/subhasis-rout-3b22892a5)
 - GitHub: [Subhasis-775](https://github.com/Subhasis-775)
 
