@@ -22,7 +22,7 @@ I'm a B.Tech CSE student passionate about building scalable and efficient applic
 ### **Backend & Microservices**
 ![Node.js](https://img.shields.io/badge/Node.js-85%-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-80%-black?style=for-the-badge&logo=express&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-70%-purple?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-70%-blue?style=for-the-badge&logo=network&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-80%-blue?style=for-the-badge)
 
 ### **Databases**
@@ -53,7 +53,7 @@ I'm a B.Tech CSE student passionate about building scalable and efficient applic
 ---
 
 ## 📫 Contact
-- Email: `subhasisrout00@gmail.com`
+- Email: `subhasisrout00.com`
 - LinkedIn: [Subhasis Rout](https://www.linkedin.com/in/subhasis-rout-3b22892a5)
 - GitHub: [Subhasis-775](https://github.com/Subhasis-775)
 
