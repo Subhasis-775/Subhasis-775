@@ -43,6 +43,12 @@ I'm a B.Tech CSE student passionate about building scalable and efficient applic
 
 ---
 
+## 📈 GitHub Stats
+![Subhasis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhasis-775&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhasis-775&layout=compact&theme=radical)
+
+---
+
 ## 🏆 Achievements
 - Hands-on experience with **Microservices, WebSockets, and DevOps pipelines**  
 - Solved **400+ problems** on LeetCode & GFG  
