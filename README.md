@@ -1,7 +1,7 @@
 # Hi, I'm Subhasis 👋
-**Aspiring Full-Stack Developer | DSA Enthusiast | Problem Solver**  
+**Aspiring Full-Stack Developer | Microservices & DevOps Enthusiast | Problem Solver**  
 
-I'm a B.Tech CSE student passionate about building impactful projects and solving challenging problems with code. I specialize in Full-Stack Development, Microservices, and DevOps practices, building scalable and efficient applications.  
+I'm a B.Tech CSE student passionate about building scalable and efficient applications using Full-Stack development, Microservices, and modern DevOps practices.  
 
 ---
 
@@ -43,25 +43,17 @@ I'm a B.Tech CSE student passionate about building impactful projects and solvin
 
 ---
 
-
-
-## 📈 GitHub Stats
-![Subhasis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhasis-775&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhasis-775&layout=compact&theme=radical)
-
----
-
 ## 🏆 Achievements
-- Solved **400+ DSA problems** on LeetCode & GFG
-- Completed **PW Java DSA series**
-- Hackathon Participant
-- Actively contributing to open-source projects
-- Hands-on experience with **Microservices, WebSockets, and DevOps pipelines**
+- Hands-on experience with **Microservices, WebSockets, and DevOps pipelines**  
+- Solved **400+ problems** on LeetCode & GFG  
+- Completed **PW Java DSA series**  
+- Hackathon Participant  
+- Actively contributing to open-source projects  
 
 ---
 
 ## 📫 Contact
-- Email: `your.email@example.com`
+- Email: `subhasisrout00@gmail.com`
 - LinkedIn: [Subhasis Rout](https://www.linkedin.com/in/subhasis-rout-3b22892a5)
 - GitHub: [Subhasis-775](https://github.com/Subhasis-775)
 
