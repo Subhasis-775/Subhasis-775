@@ -1,39 +1,48 @@
 # Hi, I'm Subhasis 👋
 **Aspiring Full-Stack Developer | DSA Enthusiast | Problem Solver**  
 
-I'm a B.Tech CSE student passionate about building impactful projects and solving challenging problems with code. Currently honing my skills in Full-Stack Development, Data Structures & Algorithms, and modern web technologies.  
+I'm a B.Tech CSE student passionate about building impactful projects and solving challenging problems with code. I specialize in Full-Stack Development, Microservices, and DevOps practices, building scalable and efficient applications.  
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 
 ### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-90%-orange?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-85%-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-80%-yellow?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-95%-red?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-90%-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-85%-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-80%-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-75%-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### **Backend & Microservices**
+![Node.js](https://img.shields.io/badge/Node.js-85%-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-80%-black?style=for-the-badge&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-70%-purple?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-80%-blue?style=for-the-badge)
 
 ### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-80%-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-75%-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-85%-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-80%-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-75%-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-80%-green?style=for-the-badge)
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-85%-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-90%-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-80%-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-75%-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
 
 
 ## 📈 GitHub Stats
@@ -43,17 +52,18 @@ I'm a B.Tech CSE student passionate about building impactful projects and solvin
 ---
 
 ## 🏆 Achievements
-- Solved **400+ DSA problems** on LeetCode & GFG  
-- Completed **PW Java DSA series**  
-- Hackathon Participant  
-- Actively contributing to open-source projects  
+- Solved **400+ DSA problems** on LeetCode & GFG
+- Completed **PW Java DSA series**
+- Hackathon Participant
+- Actively contributing to open-source projects
+- Hands-on experience with **Microservices, WebSockets, and DevOps pipelines**
 
 ---
 
 ## 📫 Contact
-- Email: `subhasisrout00@gmail.com`  
-- LinkedIn: [Subhasis Rout](https://www.linkedin.com/in/subhasis-rout-3b22892a5)  
-- GitHub: [Subhasis-775](https://github.com/Subhasis-775)  
+- Email: `your.email@example.com`
+- LinkedIn: [Subhasis Rout](https://www.linkedin.com/in/subhasis-rout-3b22892a5)
+- GitHub: [Subhasis-775](https://github.com/Subhasis-775)
 
 ---
 
