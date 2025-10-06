@@ -59,7 +59,7 @@ I'm a B.Tech CSE student passionate about building scalable and efficient applic
 ---
 
 ## 📫 Contact
-- Email: `your.email@example.com`
+- Email: `subhasisrout00@gmail.com`
 - LinkedIn: [Subhasis Rout](https://www.linkedin.com/in/subhasis-rout-3b22892a5)
 - GitHub: [Subhasis-775](https://github.com/Subhasis-775)
 
