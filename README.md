@@ -1,286 +1,276 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#F78C6C">Subhasis Rout</span></h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer</b> | MERN Stack Specialist | AI & Cloud Enthusiast<br/>
-  🎓 B.Tech in Computer Science & Engineering @ Odisha University of Technology and Research
-</p>
+# 👋 Hi, I'm **Subhasis Rout**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/subhasis-rout-3b22892a5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Subhasis-775" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:subhasisrout00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://subhgpt.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-10A37F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+### Full-Stack Developer | MERN Stack Specialist | AI & Cloud Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhasis-775&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhasis-rout-3b22892a5)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subhasis-775)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhasisrout00@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10A37F?style=for-the-badge&logo=vercel&logoColor=white)](https://subhgpt.onrender.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Subhasis-775&label=Profile%20Views&color=blueviolet&style=flat-square)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with hands-on experience building **production-ready web applications** using modern technologies. I specialize in the **MERN stack** and have a strong foundation in **Data Structures & Algorithms**, **System Design**, and **Cloud Technologies**.
+Passionate **Full-Stack Developer** specializing in **MERN stack** with expertise in building **production-ready, scalable applications**. Strong foundation in **DSA** (400+ problems solved), **System Design**, and **Cloud Technologies**.
 
-- 🔭 Currently working on **AI-powered applications** and **microservices architecture**
-- 🌱 Learning **Kubernetes**, **Docker**, and **AWS Cloud Services**
-- 💡 Solved **400+ DSA problems** on LeetCode and GeeksforGeeks
-- 🎯 Passionate about **clean code**, **scalable architecture**, and **performance optimization**
-- 📫 Reach me at: **subhasisrout00@gmail.com**
+```javascript
+const subhasis = {
+    location: "Odisha, India",
+    education: "B.Tech in CSE @ OUTR",
+    currentFocus: ["Microservices", "AI Integration", "Cloud Architecture"],
+    technologies: {
+        frontend: ["React", "Redux", "Tailwind CSS", "Framer Motion"],
+        backend: ["Node.js", "Express", "Socket.io", "REST APIs"],
+        databases: ["MongoDB", "MySQL", "Redis", "Pinecone"],
+        ai: ["Google Gemini", "Vector Embeddings", "RAG"],
+        devops: ["Docker", "AWS", "Kubernetes", "CI/CD"],
+    },
+    openTo: "Full-time opportunities | Immediate joining available"
+};
+```
 
 ---
 
 ## 💼 Featured Projects
 
 ### 🤖 [SubhGPT - AI Chat Application](https://github.com/Subhasis-775/chatgpt)
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-10A37F?style=for-the-badge)](https://subhgpt.onrender.com)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Subhasis-775/chatgpt)
+
 **Production-ready ChatGPT clone with advanced AI capabilities**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-10A37F?style=flat&logo=vercel)](https://subhgpt.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/Subhasis-775/chatgpt)
+</div>
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Socket.io, Google Gemini AI, Pinecone Vector DB
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.io` `Google Gemini AI` `Pinecone Vector DB`
 
-**Key Features:**
-- ⚡ Real-time messaging with WebSocket (Socket.io)
-- 🧠 AI-powered responses using Google Gemini
-- 🔍 Semantic search with vector embeddings (Pinecone)
-- 🔐 JWT-based authentication with bcrypt
-- 📁 File upload support (PDF, DOCX, TXT)
-- 🎨 Modern UI with dark/light mode
-- 📱 Fully responsive design
+#### ✨ Key Features
+- ⚡ **Real-time messaging** with WebSocket (Socket.io)
+- 🧠 **AI-powered responses** using Google Gemini
+- 🔍 **Semantic search** with vector embeddings (Pinecone)
+- 🔐 **JWT authentication** + bcrypt security
+- 📁 **File upload support** (PDF, DOCX, TXT) with text extraction
+- 💬 **Multi-chat management** (create, delete, view conversations)
+- 📘 **Markdown rendering** + code syntax highlighting
+- 🌗 **Dark/Light mode** with smooth transitions
+- 📱 **ChatGPT-like responsive UI/UX**
 
-**Technical Highlights:**
+#### 🏗️ Technical Highlights
 - Implemented **microservices architecture** with separate AI and vector services
-- Built **RESTful APIs** with Express.js
+- Built **RESTful APIs** with Express.js and proper error handling
 - Designed **scalable database schema** with MongoDB/Mongoose
 - Integrated **WebSocket server** for real-time bidirectional communication
-- Implemented **JWT authentication** and **protected routes**
-- Used **React Context API** for state management
+- Implemented **JWT authentication** with protected routes
+- Used **React Context API** for global state management
 - Deployed on **Render** with **CI/CD pipeline**
 
 ---
 
-### 🎬 [Netflix Clone - Streaming Platform](https://github.com/Subhasis-775/netflix-clone)
-**Full-stack Netflix clone with authentication and video streaming**
+### 💰 [ExpenseTracker Pro - AI-Powered Finance Platform](https://github.com/Subhasis-775/ExpenseTracker)
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Firebase
+<div align="center">
 
-**Key Features:**
-- User authentication and authorization
-- Video streaming with adaptive quality
-- Browse movies by categories
-- Search functionality
-- Responsive design for all devices
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-6366F1?style=for-the-badge)](https://expense-tracker-flame-gamma-90.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Subhasis-775/ExpenseTracker)
+
+**Next-gen personal finance platform with AI insights**
+
+</div>
+
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Razorpay` `Google Gemini AI`
+
+#### ✨ Key Features
+- 🤖 **AI engine** - auto-categorization, insights, predictive budgeting
+- 💰 **Smart budgets** with real-time alerts & forecast warnings
+- 📊 **Analytics suite** - Pie/Bar/Line/Stacked charts + 12-week streak heatmap
+- 🎯 **Savings goals** with progress tracking
+- 🔁 **Recurring expense** automation
+- 👥 **Split bills** & group settlements via Razorpay
+- 🧾 **Receipt uploads**, notes, filters
+- 🏆 **Gamification** - badges, streaks, achievements
+- 📧 **Automated email reports**
+- 🎨 **Glassmorphism UI**, Dark/Light mode, fluid animations
+
+#### 🏗️ Technical Highlights
+- Integrated **Google Gemini AI** for intelligent expense categorization and insights
+- Implemented **Razorpay payment gateway** for bill splitting
+- Built **comprehensive analytics dashboard** with multiple chart types
+- Created **gamification system** with achievements and streaks
+- Designed **responsive UI** with Tailwind CSS and glassmorphism effects
+- Implemented **automated email notifications** for budget alerts
 
 ---
 
-### 🛒 [E-Commerce Platform](https://github.com/Subhasis-775/ecommerce)
-**Complete e-commerce solution with payment integration**
+### 🛒 [VyapaarVerse - Microservices E-Commerce Platform](https://github.com/Subhasis-775/VyapaarVerse)
 
-**Tech Stack:** MERN Stack, Stripe API, Redux
+<div align="center">
 
-**Key Features:**
-- Product catalog with search and filters
-- Shopping cart and wishlist
-- Secure payment gateway integration
-- Order management system
-- Admin dashboard
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B35?style=for-the-badge)](https://vyapaar-verse.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Subhasis-775/VyapaarVerse)
+
+**Production-grade MERN microservices marketplace**
+
+</div>
+
+**Tech Stack:** `React + Vite` `Node.js` `Express` `MongoDB` `RabbitMQ` `Redis` `Docker` `AWS ECS Fargate` `Razorpay`
+
+#### ✨ Key Features
+- 🏗️ **Microservices architecture** (Auth, Product, Cart, Order, Payment, Notification, AI, Seller, External Cart)
+- 👥 **Multi-role system**: Buyer, Seller, Admin (JWT + RBAC)
+- 🔄 **Event-driven workflows** using RabbitMQ
+- ⚡ **Redis caching** for performance optimization
+- 💳 **Secure payments** via Razorpay
+- 🤖 **AI Shopping Assistant** powered by Gemini
+- 🔌 **Chrome Extension** for universal cart across Amazon, Flipkart & VyapaarVerse
+- 📊 **Seller dashboard** with analytics & inventory insights
+
+#### 🏗️ Technical Highlights
+- Designed and implemented **9 independent microservices** with clear separation of concerns
+- Built **event-driven architecture** using RabbitMQ for async communication
+- Implemented **Redis caching layer** to reduce database load and improve response times
+- Created **Chrome extension** for cross-platform cart synchronization
+- Deployed on **AWS ECS Fargate** with Application Load Balancer
+- Containerized all services using **Docker** for consistent deployment
+- Implemented **RBAC** (Role-Based Access Control) for secure multi-tenant system
+- Built **real-time analytics dashboard** for sellers
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Frontend Development
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-### Backend Development
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-### Databases
+### Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### AI & Tools
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subhasis-775&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhasis-775&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Subhasis-775&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subhasis-775&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhasis-775&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhasis-775&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Subhasis-775&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhasis-775&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
-- ✅ **400+ Problems Solved** - LeetCode & GeeksforGeeks
-- 🎓 **PW Java DSA Series** - Completed by Raghav Garg
-- 🏅 **National Hackathon Participant** - Multiple events
-- 🌟 **Open Source Contributor** - Active on GitHub
-- 💻 **Full-Stack Development** - MERN Stack Specialization
-- ☁️ **Cloud Computing** - AWS Fundamentals
+<div align="center">
 
----
+| 💻 Coding | 🎓 Learning | 🚀 Projects |
+|:---:|:---:|:---:|
+| **400+** Problems Solved | **PW Java DSA** Certified | **3** Production Apps |
+| LeetCode & GFG | by Raghav Garg | Live & Deployed |
+| **National Hackathons** | **MERN Stack** Expert | **Open Source** Contributor |
 
-## 💡 Core Competencies
-
-### Software Development
-- Full-Stack Web Development (MERN Stack)
-- RESTful API Design & Development
-- Microservices Architecture
-- Real-time Applications (WebSockets)
-- Database Design & Optimization
-- Authentication & Authorization (JWT, OAuth)
-
-### Problem Solving
-- Data Structures & Algorithms
-- System Design & Architecture
-- Performance Optimization
-- Debugging & Troubleshooting
-- Code Review & Best Practices
-
-### DevOps & Deployment
-- CI/CD Pipeline Setup
-- Docker Containerization
-- Cloud Deployment (AWS, Render)
-- Version Control (Git/GitHub)
-- Monitoring & Logging
+</div>
 
 ---
 
-## 📈 Coding Profiles
+## 💡 What I Bring
 
-<p align="center">
-  <a href="https://leetcode.com/Subhasis-775" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/subhasis775" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://www.hackerrank.com/subhasis775" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-  </a>
-</p>
+### 🎯 Technical Excellence
+- ✅ Strong **CS fundamentals** (DSA, OS, DBMS, Networks)
+- ✅ **Production-ready** full-stack applications
+- ✅ **Microservices** & **System Design** expertise
+- ✅ **AI integration** & **Cloud deployment** experience
 
----
+### 🚀 Project Experience
+- Built **scalable applications** from scratch to production
+- Implemented **complex features**: real-time chat, AI integration, payment gateways
+- Experience with **third-party APIs**: Gemini, Pinecone, Razorpay, RabbitMQ
+- Strong understanding of **software architecture** & **design patterns**
 
-## 🎯 What I Bring to the Table
-
-### For Recruiters & Hiring Managers
-
-**Technical Excellence:**
-- Strong foundation in **Computer Science fundamentals** (DSA, OS, DBMS, Networks)
-- Proven ability to build **scalable, production-ready applications**
-- Experience with **modern development practices** (Agile, CI/CD, Code Reviews)
-- Quick learner with ability to adapt to **new technologies**
-
-**Project Experience:**
-- Built **full-stack applications** from scratch to deployment
-- Implemented **complex features** like real-time communication, AI integration, vector search
-- Experience with **third-party API integrations** (Google Gemini, Pinecone, Stripe)
-- Strong understanding of **software architecture** and **design patterns**
-
-**Soft Skills:**
-- Excellent **problem-solving** and **analytical thinking**
-- Strong **communication** and **collaboration** skills
-- Self-motivated and able to work **independently**
-- Passionate about **continuous learning** and improvement
-
-**Ready to Contribute:**
-- Can **hit the ground running** with MERN stack projects
-- Comfortable working in **fast-paced environments**
-- Open to learning new technologies and frameworks
-- Available for **immediate joining**
+### 🤝 Soft Skills
+- Excellent **problem-solving** & **analytical thinking**
+- Self-motivated & **independent** worker
+- Passionate about **continuous learning**
+- **Available for immediate joining**
 
 ---
 
 ## 📚 Currently Learning
 
-- 🐳 Advanced Docker & Kubernetes
-- ☁️ AWS Cloud Services (EC2, S3, Lambda, RDS)
-- 🔄 GraphQL & Apollo
-- 🧪 Test-Driven Development (Jest, Mocha)
-- 🏗️ System Design & Scalability
-- 🤖 Advanced AI/ML Integration
+🐳 Advanced Docker & Kubernetes | ☁️ AWS Cloud Services | 🔄 GraphQL & Apollo | 🧪 Test-Driven Development | 🏗️ System Design Patterns
+
+---
+
+## 📈 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Subhasis-775)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/subhasis775)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/subhasis775)
+
+</div>
 
 ---
 
 ## 💬 Let's Connect!
 
-I'm always open to discussing:
-- 💼 **Job Opportunities** - Full-time, Internship, Freelance
-- 🤝 **Collaboration** - Open source projects, Hackathons
-- 💡 **Tech Discussions** - Web Development, AI, Cloud, DSA
-- 📧 **Mentorship** - Happy to help fellow developers
+<div align="center">
 
-<p align="center">
-  <a href="mailto:subhasisrout00@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/subhasis-rout-3b22892a5" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+I'm open to discussing **job opportunities**, **collaborations**, and **tech discussions**!
+
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhasisrout00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhasis-rout-3b22892a5)
 
 ---
 
-<p align="center">
-  <i>"The only way to do great work is to love what you do."</i> — Steve Jobs
-</p>
-
-<p align="center">
-  <b>⭐ Open to Full-Time Opportunities | Available for Immediate Joining ⭐</b>
-</p>
+### ⭐ Open to Full-Time Opportunities | Available for Immediate Joining ⭐
 
 ---
 
-<p align="center">
-  Made with ❤️ by Subhasis Rout
-</p>
+<sub>Made with ❤️ by Subhasis Rout</sub>
+
+</div>
